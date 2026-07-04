@@ -7,6 +7,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
+| [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 ## Matrix
 |  |
 | ------- |
@@ -40,4 +42,12 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
