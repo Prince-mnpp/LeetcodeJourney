@@ -16,6 +16,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0062-unique-paths](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -66,4 +68,8 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
