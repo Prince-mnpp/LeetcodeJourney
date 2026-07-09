@@ -30,6 +30,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0120-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 | [1288-remove-covered-intervals](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -103,5 +104,10 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
