@@ -18,6 +18,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0120-triangle) |
+| [0392-is-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Combinatorics
@@ -90,6 +91,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0392-is-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -113,6 +115,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Tree
 |  |
