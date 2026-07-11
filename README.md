@@ -20,6 +20,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0120-triangle](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
+| [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Combinatorics
 |  |
@@ -34,12 +35,14 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 | [1288-remove-covered-intervals](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1288-remove-covered-intervals) |
+| [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
 ## Depth-First Search
 |  |
 | ------- |
