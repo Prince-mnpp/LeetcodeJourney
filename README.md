@@ -9,6 +9,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0062-unique-paths](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0392-is-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Combinatorics
 |  |
@@ -37,6 +39,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1288-remove-covered-intervals](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -81,6 +84,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
 | ------- |
