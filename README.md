@@ -6,6 +6,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
