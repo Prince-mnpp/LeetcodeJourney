@@ -13,6 +13,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -103,6 +104,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -133,6 +135,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0392-is-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -195,10 +198,12 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0494-target-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
