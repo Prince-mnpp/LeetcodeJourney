@@ -11,6 +11,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -32,6 +33,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
+| [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -226,12 +228,23 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
