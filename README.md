@@ -60,6 +60,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -160,6 +161,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -250,4 +252,8 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
