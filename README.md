@@ -32,6 +32,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0494-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0516-longest-palindromic-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
@@ -55,6 +56,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0416-partition-equal-subset-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0494-target-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1288-remove-covered-intervals) |
@@ -174,6 +176,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -262,6 +265,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Sliding Window
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Segment Tree
 |  |
@@ -271,4 +275,12 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
