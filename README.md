@@ -35,6 +35,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -151,6 +152,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0657-robot-return-to-origin](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
