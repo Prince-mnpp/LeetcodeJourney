@@ -78,6 +78,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4024-nearest-available-drone](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4024-nearest-available-drone) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1291-sequential-digits](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [4024-nearest-available-drone](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
 | ------- |
