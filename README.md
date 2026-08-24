@@ -12,6 +12,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -42,6 +43,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -68,6 +70,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1288-remove-covered-intervals](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
+| [1872-stone-game-viii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -174,6 +177,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Topological Sort
 |  |
@@ -261,16 +265,19 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
