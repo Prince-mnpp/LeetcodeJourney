@@ -81,6 +81,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4024-nearest-available-drone](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4024-nearest-available-drone) |
@@ -91,6 +92,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0802-find-eventual-safe-states](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2685-count-the-number-of-complete-components) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -158,6 +161,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String
 |  |
@@ -194,6 +198,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
