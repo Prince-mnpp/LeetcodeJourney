@@ -96,6 +96,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -221,6 +222,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -229,6 +231,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Ordered Set
 |  |
