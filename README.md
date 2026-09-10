@@ -28,6 +28,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
@@ -61,6 +62,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0120-triangle) |
@@ -267,6 +269,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
