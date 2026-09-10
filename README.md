@@ -107,6 +107,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0110-balanced-binary-tree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0802-find-eventual-safe-states) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -236,6 +237,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Ordered Set
 |  |
 | ------- |
