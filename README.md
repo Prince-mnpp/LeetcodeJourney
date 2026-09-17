@@ -28,6 +28,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
@@ -64,6 +65,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
@@ -281,6 +283,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
