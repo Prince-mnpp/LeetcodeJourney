@@ -108,6 +108,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [3903-smallest-stable-index-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4024-nearest-available-drone) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Binary Search
 |  |
 | ------- |
