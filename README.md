@@ -206,6 +206,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -319,6 +320,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -378,4 +380,5 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
