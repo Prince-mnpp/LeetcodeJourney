@@ -195,6 +195,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
@@ -318,6 +319,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -381,6 +383,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
