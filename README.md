@@ -46,6 +46,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0583-delete-operation-for-two-strings](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0740-delete-and-earn) |
 | [1092-shortest-common-supersequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1143-longest-common-subsequence) |
@@ -80,6 +81,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0455-assign-cookies](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0740-delete-and-earn) |
 | [0860-lemonade-change](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0860-lemonade-change) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
@@ -232,6 +234,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
