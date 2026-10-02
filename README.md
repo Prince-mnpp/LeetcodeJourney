@@ -29,6 +29,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0062-unique-paths) |
@@ -198,6 +199,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
@@ -317,6 +319,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
@@ -387,6 +390,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
