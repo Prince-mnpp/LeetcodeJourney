@@ -210,6 +210,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0583-delete-operation-for-two-strings](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1143-longest-common-subsequence) |
@@ -331,6 +332,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0032-longest-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -396,6 +398,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0022-generate-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
