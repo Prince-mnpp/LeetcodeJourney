@@ -135,6 +135,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -206,6 +207,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0032-longest-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0516-longest-palindromic-subsequence) |
@@ -327,6 +329,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
