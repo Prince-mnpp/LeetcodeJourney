@@ -40,6 +40,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0115-distinct-subsequences](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0416-partition-equal-subset-sum) |
@@ -80,6 +81,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 | [0275-h-index-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0455-assign-cookies) |
@@ -262,6 +264,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1539-kth-missing-positive-number) |
@@ -413,4 +416,8 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1021-remove-outermost-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
