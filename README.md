@@ -101,6 +101,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -198,6 +199,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -252,6 +254,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
@@ -327,6 +330,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
