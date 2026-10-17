@@ -110,6 +110,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [3483-unique-3-digit-even-numbers](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -185,6 +186,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -259,6 +261,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
