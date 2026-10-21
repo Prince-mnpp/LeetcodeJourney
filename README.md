@@ -208,6 +208,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0231-power-of-two) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -438,4 +439,8 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0300-longest-increasing-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
