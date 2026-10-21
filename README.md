@@ -9,6 +9,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0007-reverse-integer](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
@@ -197,6 +198,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
@@ -206,6 +208,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0231-power-of-two) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
