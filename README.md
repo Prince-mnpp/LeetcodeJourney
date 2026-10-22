@@ -80,6 +80,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0204-count-primes) |
 | [0275-h-index-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0275-h-index-ii) |
@@ -208,6 +209,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0461-hamming-distance) |
