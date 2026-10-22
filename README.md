@@ -210,6 +210,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0461-hamming-distance) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
