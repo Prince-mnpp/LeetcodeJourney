@@ -366,6 +366,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0856-score-of-parentheses) |
@@ -449,4 +450,8 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
