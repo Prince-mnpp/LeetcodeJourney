@@ -117,6 +117,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -219,6 +220,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String
 |  |
