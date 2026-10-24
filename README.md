@@ -15,6 +15,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1510-stone-game-iv](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -248,6 +249,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2409-count-days-spent-together) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3498-reverse-degree-of-a-string) |
