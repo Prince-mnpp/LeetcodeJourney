@@ -94,6 +94,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0740-delete-and-earn](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0740-delete-and-earn) |
 | [0860-lemonade-change](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0860-lemonade-change) |
 | [1140-stone-game-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
@@ -132,6 +133,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1463-cherry-pickup-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -141,6 +143,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0110-balanced-binary-tree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0802-find-eventual-safe-states) |
+| [1254-number-of-closed-islands](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2685-count-the-number-of-complete-components) |
@@ -150,12 +153,14 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0301-remove-invalid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0802-find-eventual-safe-states) |
+| [1254-number-of-closed-islands](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
