@@ -79,6 +79,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [0055-jump-game](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0136-single-number) |
@@ -223,6 +224,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0191-number-of-1-bits) |
@@ -374,6 +376,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3348-smallest-divisible-digit-product-ii) |
