@@ -133,6 +133,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [3886-sum-of-sortable-integers](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3934-smallest-unique-subarray) |
 | [4024-nearest-available-drone](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4024-nearest-available-drone) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Matrix
@@ -305,6 +306,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3934-smallest-unique-subarray) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Binary Search
 |  |
@@ -319,6 +321,7 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3934-smallest-unique-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -453,10 +456,12 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3934-smallest-unique-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -488,4 +493,8 @@ Collection of LeetCode solutions with optimized approaches and clean code.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/0232-implement-queue-using-stacks) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Prince-mnpp/LeetcodeJourney/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
